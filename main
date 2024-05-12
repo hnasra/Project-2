@@ -1,6 +1,7 @@
 from game import TicTacToe
 
 def main():
+"""function to start the game"""
     game = TicTacToe()
     game.play()
 
